@@ -6,7 +6,7 @@ Repository for "App for Food and Ag Hackathon 2024"
 
 ## Developing directions:
  - [ ] Verification: We verify the human input with Object detection model, to basically make a rough count.
- - [x] Product history: Whether a consumer or distributor wishes to track history of the product. This is possible by navigating back in the blockchain network.
+ - [ ] Product history: Whether a consumer or distributor wishes to track history of the product. This is possible by navigating back in the blockchain network.
  - [ ] Route optimization: We can optimize the routes to choose based on the time and distance.
  - [ ] Open-market pricing: This means to implement pricing of commodities based on demand-supply in the market.
 
