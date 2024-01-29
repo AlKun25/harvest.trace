@@ -1,4 +1,4 @@
-# food_ag
+# harvest.trace
 
 Repository for "App for Food and Ag Hackathon 2024"
 
