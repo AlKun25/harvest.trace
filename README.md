@@ -1,6 +1,6 @@
 # harvest.trace
 
-Repository for "App for Food and Ag Hackathon 2024"
+Repository for Winners of "App for Food and Ag Hackathon 2024"
 
 **Initial idea:** Better recall compliance with Food Safety Modernization Act. 
 
